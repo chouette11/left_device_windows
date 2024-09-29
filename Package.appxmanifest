@@ -9,7 +9,7 @@
   <Identity
     Name="KeiichiroFukuda.615301EE6DFFA"
     Publisher="CN=1A8B0986-5C85-4F20-8931-1D6C260F51D5"
-    Version="1.0.2.0" />
+    Version="1.0.10.0" />
 
   <Properties>
     <DisplayName>スマホで左手デバイス for Windows</DisplayName>
